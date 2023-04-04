@@ -1,5 +1,5 @@
 # SpeeD-IA
-Repository for different Speech Datasets and Models for Indo-Aryan languages prepared by the Department under different projects.
+Repository for different Speech Datasets and Models for Indo-Aryan languages prepared by the Department under different projects, in collaboration with [Karya Inc.](https://www.karya.in/) and [UnReaL-TecE LLP](http://unreal-tece.co.in/).
 
 This repository currently contains the transcription of the speech data collected through the Karya App in four languages - Awadhi, Bhojpuri, Braj and Magahi.
 
