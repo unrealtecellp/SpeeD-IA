@@ -3,7 +3,7 @@ Repository for different Speech Datasets and Models for Indo-Aryan languages pre
 
 This repository currently contains the transcription of the speech data collected through the Karya App for the pilot project of the SpeeD-IA project in four languages - Awadhi, Bhojpuri, Braj and Magahi.
 
-The audio could be [downloaded here](https://drive.google.com/drive/folders/1UFeibKZ4j86SLdyFuFH36CyosHLJeHhY?usp=sharing). The audio files are licensed under AGPL v2, which is freely usable for research. For commercial licensing of the audio files, contact [UnReaL-TecE LLP](http://unreal-tece.co.in/).
+The audio could be [downloaded here](https://drive.google.com/drive/folders/1UFeibKZ4j86SLdyFuFH36CyosHLJeHhY?usp=sharing).  SpeeD-IA Audio and Transcription is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?) . For commercial licensing of the audio files, contact [UnReaL-TecE LLP](http://unreal-tece.co.in/).
 
 If you are using the data, please cite the following paper
 
